@@ -1,0 +1,14 @@
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\bin\Debug\net8.0\ASCII game text based test.exe
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\bin\Debug\net8.0\ASCII game text based test.deps.json
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\bin\Debug\net8.0\ASCII game text based test.runtimeconfig.json
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\bin\Debug\net8.0\ASCII game text based test.dll
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\bin\Debug\net8.0\ASCII game text based test.pdb
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.AssemblyInfoInputs.cache
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.AssemblyInfo.cs
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.csproj.CoreCompileInputs.cache
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.dll
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\refint\ASCII game text based test.dll
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.pdb
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ASCII game text based test.genruntimeconfig.cache
+C:\Users\j.m.moyes\OneDrive - Saint Kentigern\School Subjects 2024\Computer Science\Programming\ASCII game text based test\obj\Debug\net8.0\ref\ASCII game text based test.dll
